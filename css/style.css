@@ -1,0 +1,96 @@
+.input {
+   
+    width: 30%;
+    margin-left: 35%;
+    box-shadow: 10px 10px 15px #888888;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    overflow: auto;
+    margin-top: 10%;
+    
+    
+}
+
+.input2 {
+    
+    width: 50%;
+    border-radius: 5px;
+    padding: 8px;
+   
+}
+
+
+.table {
+    padding-top: 30px;
+    width:60%;
+    margin-left: 10%; 
+
+}
+
+.repository_title {
+    padding-top: 30px;
+    
+    border-bottom: 3px solid black;
+}
+
+#git_hub {
+    width: 90%;
+    height: 3vh;
+    
+    border-radius: 7px;
+    
+    font-weight: bold;
+   
+    padding-top: 10px;
+    
+}
+
+.container-info{
+    padding-top: 10px;
+    
+   
+    
+}
+
+#button-input{
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    
+}
+
+.avatar{
+    width: 20%;
+    float: left;
+    padding-left: 20px;
+    margin: 8px;
+    
+}
+
+
+.bio{
+    margin-top: -15px;
+    padding-left: 30%;
+}
+
+.alert-div{
+    height: 5vh;
+    order: 1px solid red;
+    border-radius: 3px;
+    text-align: center;
+   background-color:#F08080;
+    color: darkred;
+
+}
+
+p{padding-top: 5px;}
+
+td{
+   padding: 5px;
+}
+
+img{
+    width: 13px;
+}
+
